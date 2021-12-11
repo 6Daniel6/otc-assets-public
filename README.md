@@ -6,7 +6,7 @@ Want your NFT on the default list for the sudoswap suggested form? Feel free to 
 
 ```
 {
-      "name": "Bored Ape Yacht Club",
+      "name": "NAME",
       "chainId": 1 for mainnet, etc.,
       "address": ADDRESS,
       "standard": "erc721" or "erc1155",
